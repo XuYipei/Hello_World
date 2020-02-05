@@ -1,2 +1,1 @@
-XuYipei
-This is readme.txt
+This a Hello_World program
